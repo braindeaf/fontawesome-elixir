@@ -25,7 +25,7 @@ defmodule Fontawesome.MixProject do
       licenses: ["MIT"],
       maintainers: ["Rob Lacey"],
       links: %{"GitHub" => @url},
-      files: ~w(mix.exs LICENSE README.md fontawesome.sass sass)
+      files: ~w(mix.exs LICENSE README.md fontawesome.scss scss)
     }
   end
 end
